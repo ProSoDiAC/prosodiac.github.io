@@ -2692,19 +2692,27 @@ d-citation-list .references .title {
         },
 
         tokenize: function (text, grammar) {
+          // Make a prototype-less safe copy of grammar, to prevent prototype pollution
+          var safeGrammar = Object.create(null);
+          for (var key in grammar) {
+            if (Object.prototype.hasOwnProperty.call(grammar, key)) {
+              if (key === "__proto__" || key === "constructor" || key === "prototype") continue;
+              safeGrammar[key] = grammar[key];
+            }
+          }
           var rest = grammar.rest;
           if (rest) {
             for (var token in rest) {
-              grammar[token] = rest[token];
+              if (token === "__proto__" || token === "constructor" || token === "prototype") continue;
+              safeGrammar[token] = rest[token];
             }
-
-            delete grammar.rest;
+            // Don't mutate original grammar (could be shared by others)
+            //delete grammar.rest;
           }
-
           var tokenList = new LinkedList();
           addAfter(tokenList, tokenList.head, text);
 
-          matchGrammar(text, tokenList, grammar, tokenList.head, 0);
+          matchGrammar(text, tokenList, safeGrammar, tokenList.head, 0);
 
           return toArray(tokenList);
         },
@@ -3087,7 +3095,7 @@ d-citation-list .references .title {
       comment: /<!--[\s\S]*?-->/,
       prolog: /<\?[\s\S]+?\?>/,
       doctype: {
-        pattern: /<!DOCTYPE(?:[^>"'[\]]|"[^"]*"|'[^']*')+(?:\[(?:(?!<!--)[^"'\]]|"[^"]*"|'[^']*'|<!--[\s\S]*?-->)*\]\s*)?>/i,
+        pattern: /<!DOCTYPE(?:[^>"'[\]]|"[^"]*"|'[^']*')+(?:\[(?:(?!<!--)[^"'\]]|"[^"]*"|'[^']*'|<!--(?:[^-]|-(?!->))*-->)*\]\s*)?>/i,
         greedy: true,
       },
       cdata: /<!\[CDATA\[[\s\S]*?]]>/i,
@@ -3330,7 +3338,7 @@ d-citation-list .references .title {
     Prism.languages.insertBefore("javascript", "keyword", {
       regex: {
         pattern:
-          /((?:^|[^$\w\xA0-\uFFFF."'\])\s])\s*)\/(?:\[(?:[^\]\\\r\n]|\\.)*]|\\.|[^/\\\[\r\n])+\/[gimyus]{0,6}(?=(?:\s|\/\*[\s\S]*?\*\/)*(?:$|[\r\n,.;:})\]]|\/\/))/,
+          /((?:^|[^$\w\xA0-\uFFFF."'\])\s])\s*)\/(?:\[(?:[^\]\\\r\n]|\\.)*]|\\.|[^/\\\[\r\n])+\/[gimyus]{0,6}(?=(?:\s|\/\*(?:[^*]|\*(?!\/))*\*\/)*(?:$|[\r\n,.;:})\]]|\/\/))/,
         lookbehind: true,
         greedy: true,
       },
@@ -4235,7 +4243,7 @@ ${css}
 
       if (this.hasAttribute("block")) {
         // normalize the tab indents
-        content = content.replace(/\n/, "");
+        content = content.replace(/\n/g, "");
         const tabs = content.match(/\s*/);
         content = content.replace(new RegExp("\n" + tabs, "g"), "\n");
         content = content.trim();
@@ -4672,6 +4680,16 @@ d-references {
   <h2>Table of contents</h2>
   <ul>`;
 
+    // HTML escaping function to prevent XSS in TOC entries
+    function escapeHTML(str) {
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+
     for (const el of headings) {
       // should element be included in TOC?
       const isInTitle = el.parentElement.tagName == "D-TITLE";
@@ -4681,7 +4699,7 @@ d-references {
       const title = el.textContent;
       const link = "#" + el.getAttribute("id");
 
-      let newLine = "<li>" + '<a href="' + link + '">' + title + "</a>" + "</li>";
+      let newLine = "<li>" + '<a href="' + link + '">' + escapeHTML(title) + "</a>" + "</li>";
       if (el.tagName == "H3") {
         newLine = "<ul>" + newLine + "</ul>";
       } else {
