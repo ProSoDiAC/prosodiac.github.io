@@ -1,0 +1,7 @@
+paths-ignore:
+  - "_scripts/cronitor-analytics-setup.js"
+  - "_scripts/open-panel-analytics-setup.js"
+  - "_scripts/search.liquid.js"
+  - "_scripts/giscus-setup.js"
+  - "_scripts/google-analytics-setup.js"
+  - "_scripts/photoswipe-setup.js"
