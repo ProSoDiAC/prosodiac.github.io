@@ -2692,20 +2692,27 @@ d-citation-list .references .title {
         },
 
         tokenize: function (text, grammar) {
+          // Make a prototype-less safe copy of grammar, to prevent prototype pollution
+          var safeGrammar = Object.create(null);
+          for (var key in grammar) {
+            if (Object.prototype.hasOwnProperty.call(grammar, key)) {
+              if (key === "__proto__" || key === "constructor" || key === "prototype") continue;
+              safeGrammar[key] = grammar[key];
+            }
+          }
           var rest = grammar.rest;
           if (rest) {
             for (var token in rest) {
               if (token === "__proto__" || token === "constructor" || token === "prototype") continue;
-              grammar[token] = rest[token];
+              safeGrammar[token] = rest[token];
             }
-
-            delete grammar.rest;
+            // Don't mutate original grammar (could be shared by others)
+            //delete grammar.rest;
           }
-
           var tokenList = new LinkedList();
           addAfter(tokenList, tokenList.head, text);
 
-          matchGrammar(text, tokenList, grammar, tokenList.head, 0);
+          matchGrammar(text, tokenList, safeGrammar, tokenList.head, 0);
 
           return toArray(tokenList);
         },
