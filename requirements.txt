@@ -1,3 +1,3 @@
-nbconvert
+nbconvert; platform_system != "Windows"
 pyyaml
 scholarly
