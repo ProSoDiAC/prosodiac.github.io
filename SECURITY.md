@@ -13,5 +13,5 @@
 
 Please report any vulnerability as issue, with PR if possible.
 
-Updates on reported vulnerabilities are *not* guaranteed to be dealt with in a timely fashion: if the vulnerability is accepted a patch will be deployed as soon as it is ready, when
+Updates on reported vulnerabilities are _not_ guaranteed to be dealt with in a timely fashion: if the vulnerability is accepted a patch will be deployed as soon as it is ready, when
 declined the corresponding issue will be closed, possibly with an explanation.
