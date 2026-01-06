@@ -2692,20 +2692,27 @@ d-citation-list .references .title {
         },
 
         tokenize: function (text, grammar) {
+          // Make a prototype-less safe copy of grammar, to prevent prototype pollution
+          var safeGrammar = Object.create(null);
+          for (var key in grammar) {
+            if (Object.prototype.hasOwnProperty.call(grammar, key)) {
+              if (key === "__proto__" || key === "constructor" || key === "prototype") continue;
+              safeGrammar[key] = grammar[key];
+            }
+          }
           var rest = grammar.rest;
           if (rest) {
             for (var token in rest) {
               if (token === "__proto__" || token === "constructor" || token === "prototype") continue;
-              grammar[token] = rest[token];
+              safeGrammar[token] = rest[token];
             }
-
-            delete grammar.rest;
+            // Don't mutate original grammar (could be shared by others)
+            //delete grammar.rest;
           }
-
           var tokenList = new LinkedList();
           addAfter(tokenList, tokenList.head, text);
 
-          matchGrammar(text, tokenList, grammar, tokenList.head, 0);
+          matchGrammar(text, tokenList, safeGrammar, tokenList.head, 0);
 
           return toArray(tokenList);
         },
@@ -4673,6 +4680,16 @@ d-references {
   <h2>Table of contents</h2>
   <ul>`;
 
+    // HTML escaping function to prevent XSS in TOC entries
+    function escapeHTML(str) {
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+
     for (const el of headings) {
       // should element be included in TOC?
       const isInTitle = el.parentElement.tagName == "D-TITLE";
@@ -4682,7 +4699,7 @@ d-references {
       const title = el.textContent;
       const link = "#" + el.getAttribute("id");
 
-      let newLine = "<li>" + '<a href="' + link + '">' + title + "</a>" + "</li>";
+      let newLine = "<li>" + '<a href="' + link + '">' + escapeHTML(title) + "</a>" + "</li>";
       if (el.tagName == "H3") {
         newLine = "<ul>" + newLine + "</ul>";
       } else {
