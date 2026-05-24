@@ -1,3 +1,4 @@
 nbconvert; platform_system != "Windows"
 pyyaml
+rendercv[full]
 scholarly
