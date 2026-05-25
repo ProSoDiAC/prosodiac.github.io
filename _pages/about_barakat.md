@@ -1,0 +1,1 @@
+[Ghena Barakat](https://unifind.unime.it/resource/person/234973) is a PhD student in Engineering, working on neurosymbolic AI for safety, under the supervision of Prof. Antonio Puliafito, with Prof. Giovanni Merlino as co-supervisor

@@ -1,0 +1,1 @@
+[Mohammad Ghavidel Vahid](https://unifind.unime.it/resource/person/243427) is a PhD student in Engineering, working on the softwarization of hybrid IT/OT infrastructure, under the supervision of Prof. Giovanni Merlino, with Prof. Guido Di Bella as co-supervisor
