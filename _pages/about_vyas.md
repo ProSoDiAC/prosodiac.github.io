@@ -1,0 +1,1 @@
+[Aamod Vyas](https://unifind.unime.it/resource/person/242925) is a PhD student in Engineering, working on agentic AI for education, under the supervision of Prof. Antonio Puliafito, with Prof. Giovanni Merlino as co-supervisor
