@@ -15,18 +15,29 @@ subtitle: >
   <span style="font-variant: small-caps; font-size: 1.15em; font-weight: 700; letter-spacing: 0.03em;">
     <b>prosody</b>
   </span>
-  <br>
   /ˈpɹɑzədi/ <b>noun</b>
-  <br><br>
+  <br>
   <span style="display: inline-block; margin-left: 2em;">
     in linguistics: the study of <em>rhythm</em>, <em>intonation</em>, <em>stress</em>, and related attributes in speech
   </span>
 
 profile:
   align: right
-  image: lab.png
+  image:
   image_circular: false
   more_info: >
+    <p>
+      <img
+        class="only-light img-fluid z-depth-1 rounded"
+        src="/assets/img/lab-light-name.svg"
+        alt="ProSoDiAC lab logo"
+      >
+      <img
+        class="only-dark img-fluid z-depth-1 rounded"
+        src="/assets/img/lab-dark-name.svg"
+        alt="ProSoDiAC lab logo"
+      >
+    </p>
     <p><a href="https://ingegneria.unime.it/en/research/laboratories/electronicscomputer-science-area-laboratories#:~:text=Internet%20of%20things%20(IoT%20Lab)">IoT lab</p>
     <p><a href="https://ingegneria.unime.it">Department of Engineering</p>
     <p><a href="https://www.unime.it">University of Messina</p>
