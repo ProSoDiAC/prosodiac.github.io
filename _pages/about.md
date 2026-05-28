@@ -45,6 +45,7 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
+
 <style>
   .post .post-title {
     display: none;
