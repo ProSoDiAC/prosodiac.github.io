@@ -1,1 +1,1 @@
-Tancredi Orlando is a former PhD student in Bioengineering, working on runtime-based portability for biomedical embedded systems, under the supervision of Prof. Giovanni Merlino
+Tancredi Orlando is a former PhD student in Bioengineering, who worked on runtime-based portability for biomedical embedded systems, under the supervision of Professor Giovanni Merlino.

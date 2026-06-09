@@ -1,1 +1,1 @@
-[Fabio Mirto](https://unifind.unime.it/resource/person/247925) is a PhD student in Bioengineering, working on safe-by-design cyber-physical biomedical systems, under the supervision of Prof. Giovanni Merlino, with Prof. Francesco Longo as co-supervisor
+[Fabio Mirto](https://unifind.unime.it/resource/person/247925) is a PhD student in Bioengineering, working on safe-by-design cyber-physical biomedical systems, under the supervision of Professor Giovanni Merlino, with Professor Francesco Longo as co-supervisor.

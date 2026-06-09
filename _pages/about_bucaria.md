@@ -1,1 +1,1 @@
-[Vincenzo Bucaria](https://unifind.unime.it/resource/person/228085) is a PhD student in Engineering, working on virtualization approaches for accelerators and FPGAs, under the supervision of Prof. Francesco Longo, with Prof. Giovanni Merlino as co-supervisor
+[Vincenzo Bucaria](https://unifind.unime.it/resource/person/228085) is a PhD student in Engineering, working on virtualization approaches for accelerators and FPGAs, under the supervision of Professor Francesco Longo, with Professor Giovanni Merlino as co-supervisor.

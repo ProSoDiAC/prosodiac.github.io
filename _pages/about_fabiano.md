@@ -1,1 +1,1 @@
-[Manuel Fabiano](https://unifind.unime.it/resource/person/228086) is a PhD student in Bioengineering, working on reinforcement unlearning techniques, under the supervision of Prof. Francesco Longo, with Prof. Giovanni Merlino as co-supervisor
+[Manuel Fabiano](https://unifind.unime.it/resource/person/228086) is a PhD student in Bioengineering, working on reinforcement unlearning techniques, under the supervision of Professor Francesco Longo, with Professor Giovanni Merlino as co-supervisor.
