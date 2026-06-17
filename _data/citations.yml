@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-17'
 papers:
   xHDCAI8AAAAJ:-FonjvnnhkoC:
     citations: 15
@@ -34,7 +34,7 @@ papers:
     title: 'HERALD: A Hybrid distributEd leaRning incrementAL & feDerated solution for knowledge distillation in COVID-19 classification'
     year: '2026'
   xHDCAI8AAAAJ:4MWp96NkSFoC:
-    citations: 58
+    citations: 59
     title: Experimenting with smart contracts for access control and delegation in IoT
     year: '2020'
   xHDCAI8AAAAJ:4fGpz3EwCPoC:
@@ -150,7 +150,7 @@ papers:
     title: On the way to a configurable testbed to support IoT research
     year: '2022'
   xHDCAI8AAAAJ:Fu2w8maKXqMC:
-    citations: 85
+    citations: 86
     title: Data processing in cyber-physical-social systems through edge computing
     year: '2018'
   xHDCAI8AAAAJ:HE397vMXCloC:
@@ -162,7 +162,7 @@ papers:
     title: 'Proxy-Based Approach for Securing Modbus Communication with Post-quantum Cryptography: A Hydrogen-Based Smart Grid Case Study'
     year: '2025'
   xHDCAI8AAAAJ:HbR8gkJAVGIC:
-    citations: 23
+    citations: 24
     title: A resilient fire protection system for software-defined factories
     year: '2021'
   xHDCAI8AAAAJ:HeT0ZceujKMC:
@@ -275,14 +275,14 @@ papers:
     year: '2015'
   xHDCAI8AAAAJ:P7Ujq4OLJYoC:
     citations: 0
-    title: 'Zero-Trust Software-Defined Vehicles: a Security Paradigm for the Automotive Cloud-Edge Continuum'
+    title: 'Zero-Trust Software-Defined Vehicles: a Security Paradigm for the Automotive Cloud-Edge Continuum.'
     year: '2026'
   xHDCAI8AAAAJ:PELIpwtuRlgC:
     citations: 0
     title: 'Sensing and Actuation as a Service, a device-centric paradigm for the IoT: analysis, design and case studies'
     year: '2015'
   xHDCAI8AAAAJ:PR6Y55bgFSsC:
-    citations: 1023
+    citations: 1024
     title: 'Blockchain and iot integration: A systematic survey'
     year: '2018'
   xHDCAI8AAAAJ:PVjk1bu6vJQC:
@@ -338,7 +338,7 @@ papers:
     title: 'Virtualization and migration at the network edge: An overview'
     year: '2018'
   xHDCAI8AAAAJ:VLnqNzywnoUC:
-    citations: 65
+    citations: 66
     title: Enabling workload engineering in edge, fog, and cloud computing through OpenStack-based middleware
     year: '2019'
   xHDCAI8AAAAJ:VaXvl8Fpj5cC:
@@ -354,7 +354,7 @@ papers:
     title: Quantitative evaluation of Cloud-based network virtualization mechanisms for IoT
     year: '2017'
   xHDCAI8AAAAJ:WJVC3Jt7v1AC:
-    citations: 4
+    citations: 5
     title: 'Bridging IoT protocols with the web of things: A path to enhanced interoperability'
     year: '2024'
   xHDCAI8AAAAJ:WZBGuue-350C:
@@ -402,7 +402,7 @@ papers:
     title: Infrastructure-centric, NetworkServer-agnostic LoRaWAN roaming
     year: '2022'
   xHDCAI8AAAAJ:_xSYboBqXhAC:
-    citations: 108
+    citations: 107
     title: 'A utility paradigm for IoT: The sensing Cloud'
     year: '2015'
   xHDCAI8AAAAJ:a3BOlSfXSfwC:
@@ -454,7 +454,7 @@ papers:
     title: IEEE ICIOT 2018 Organizing Committee
     year: Unknown Year
   xHDCAI8AAAAJ:dTyEYWd-f8wC:
-    citations: 60
+    citations: 61
     title: Metropolitan intelligent surveillance systems for urban areas by harnessing IoT and edge computing paradigms
     year: '2018'
   xHDCAI8AAAAJ:dshw04ExmUIC:
@@ -571,7 +571,7 @@ papers:
     year: '2016'
   xHDCAI8AAAAJ:nZcligLrVowC:
     citations: 0
-    title: Automatic Verification of Security Properties in Containerized IoT Applications via Bigraphical Modeling
+    title: Automatic Verification of Security Properties in Containerized IoT Applications via Bigraphical Modeling.
     year: '2026'
   xHDCAI8AAAAJ:nb7KW1ujOQ8C:
     citations: 6
