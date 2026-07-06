@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-06'
 papers:
   xHDCAI8AAAAJ:-FonjvnnhkoC:
     citations: 15
@@ -30,7 +30,7 @@ papers:
     title: An architecture for runtime customization of smart devices
     year: '2013'
   xHDCAI8AAAAJ:3htObqc8RwsC:
-    citations: 7
+    citations: 8
     title: 'HERALD: A Hybrid distributEd leaRning incrementAL & feDerated solution for knowledge distillation in COVID-19 classification'
     year: '2026'
   xHDCAI8AAAAJ:4MWp96NkSFoC:
@@ -78,7 +78,7 @@ papers:
     title: 'SAMOGRADD: A New Dataset fo Highway Guardrail Anomaly Detection'
     year: Unknown Year
   xHDCAI8AAAAJ:9Nmd_mFXekcC:
-    citations: 16
+    citations: 17
     title: Blockchain-based publicly verifiable cloud storage
     year: '2019'
   xHDCAI8AAAAJ:9c2xU6iGI7YC:
@@ -86,7 +86,7 @@ papers:
     title: NCA 2024
     year: Unknown Year
   xHDCAI8AAAAJ:9pM33mqn1YgC:
-    citations: 60
+    citations: 62
     title: A deep learning-driven self-conscious distributed cyber-physical system for renewable energy communities
     year: '2023'
   xHDCAI8AAAAJ:9yKSN-GCB0IC:
@@ -153,6 +153,10 @@ papers:
     citations: 86
     title: Data processing in cyber-physical-social systems through edge computing
     year: '2018'
+  xHDCAI8AAAAJ:GFxP56DSvIMC:
+    citations: 0
+    title: Where is my mind? Decentralized Control Migration for Long-Endurance Robot Swarms
+    year: '2026'
   xHDCAI8AAAAJ:HE397vMXCloC:
     citations: 2
     title: 'User-space network tunneling under a mobile platform: a case study for Android environments'
@@ -282,7 +286,7 @@ papers:
     title: 'Sensing and Actuation as a Service, a device-centric paradigm for the IoT: analysis, design and case studies'
     year: '2015'
   xHDCAI8AAAAJ:PR6Y55bgFSsC:
-    citations: 1024
+    citations: 1029
     title: 'Blockchain and iot integration: A systematic survey'
     year: '2018'
   xHDCAI8AAAAJ:PVjk1bu6vJQC:
@@ -338,7 +342,7 @@ papers:
     title: 'Virtualization and migration at the network edge: An overview'
     year: '2018'
   xHDCAI8AAAAJ:VLnqNzywnoUC:
-    citations: 66
+    citations: 67
     title: Enabling workload engineering in edge, fog, and cloud computing through OpenStack-based middleware
     year: '2019'
   xHDCAI8AAAAJ:VaXvl8Fpj5cC:
@@ -354,7 +358,7 @@ papers:
     title: Quantitative evaluation of Cloud-based network virtualization mechanisms for IoT
     year: '2017'
   xHDCAI8AAAAJ:WJVC3Jt7v1AC:
-    citations: 5
+    citations: 6
     title: 'Bridging IoT protocols with the web of things: A path to enhanced interoperability'
     year: '2024'
   xHDCAI8AAAAJ:WZBGuue-350C:
@@ -410,7 +414,7 @@ papers:
     title: Enhancing Communication in Edge Applications with IoT-Based Overlay Peer-to-Peer Networks
     year: '2025'
   xHDCAI8AAAAJ:a9-T7VOCCH8C:
-    citations: 15
+    citations: 17
     title: 'MocapMe: DeepLabCut-enhanced neural network for enhanced markerless stability in sit-to-stand motion capture'
     year: '2024'
   xHDCAI8AAAAJ:abG-DnoFyZgC:
@@ -430,7 +434,7 @@ papers:
     title: 'Application deployment for IoT: An infrastructure approach'
     year: '2013'
   xHDCAI8AAAAJ:bKqednn6t2AC:
-    citations: 23
+    citations: 24
     title: 'An integration perspective of security, privacy, and resource efficiency in IoT-Fog networks: A comprehensive survey'
     year: '2025'
   xHDCAI8AAAAJ:bz8QjSJIRt4C:
@@ -558,7 +562,7 @@ papers:
     title: Toward a function-as-a-service framework for genomic analysis
     year: '2020'
   xHDCAI8AAAAJ:mNrWkgRL2YcC:
-    citations: 2
+    citations: 3
     title: 'Federated learning across the compute continuum: A hierarchical approach with splitNNs and personalized layers'
     year: '2025'
   xHDCAI8AAAAJ:mlAyqtXpCwEC:
@@ -594,7 +598,7 @@ papers:
     title: M2M interactions paradigm via volunteer computing and mobile crowdsensing
     year: '2014'
   xHDCAI8AAAAJ:p__nRnzSRKYC:
-    citations: 29
+    citations: 30
     title: Cloud-based enabling mechanisms for container deployment and migration at the network edge
     year: '2020'
   xHDCAI8AAAAJ:q3CdL3IzO_QC:
