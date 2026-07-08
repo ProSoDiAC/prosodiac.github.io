@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-08'
 papers:
   xHDCAI8AAAAJ:-FonjvnnhkoC:
     citations: 15
@@ -170,7 +170,7 @@ papers:
     title: A resilient fire protection system for software-defined factories
     year: '2021'
   xHDCAI8AAAAJ:HeT0ZceujKMC:
-    citations: 4
+    citations: 5
     title: 'Securing Modbus in legacy industrial control systems: A decentralized approach using proxies, Post-Quantum Cryptography and Self-Sovereign Identity'
     year: '2025'
   xHDCAI8AAAAJ:HtEfBTGE9r8C:
@@ -286,7 +286,7 @@ papers:
     title: 'Sensing and Actuation as a Service, a device-centric paradigm for the IoT: analysis, design and case studies'
     year: '2015'
   xHDCAI8AAAAJ:PR6Y55bgFSsC:
-    citations: 1029
+    citations: 1031
     title: 'Blockchain and iot integration: A systematic survey'
     year: '2018'
   xHDCAI8AAAAJ:PVjk1bu6vJQC:
@@ -346,7 +346,7 @@ papers:
     title: Enabling workload engineering in edge, fog, and cloud computing through OpenStack-based middleware
     year: '2019'
   xHDCAI8AAAAJ:VaXvl8Fpj5cC:
-    citations: 26
+    citations: 27
     title: Internet of things network infrastructure for the educational purpose
     year: '2020'
   xHDCAI8AAAAJ:W5xh706n7nkC:
@@ -397,6 +397,10 @@ papers:
     citations: 4
     title: 'Empirical Analysis of Federated Learning Algorithms: A Federated Research Infrastructure Use Case.'
     year: '2023'
+  xHDCAI8AAAAJ:_OXeSy2IsFwC:
+    citations: 0
+    title: 'Re-Forward: Memory-efficient Backpropagation for Reinforcement Learning at the Edge'
+    year: '2026'
   xHDCAI8AAAAJ:_Ybze24A_UAC:
     citations: 46
     title: Pushing intelligence to the edge with a stream processing architecture
@@ -562,7 +566,7 @@ papers:
     title: Toward a function-as-a-service framework for genomic analysis
     year: '2020'
   xHDCAI8AAAAJ:mNrWkgRL2YcC:
-    citations: 3
+    citations: 4
     title: 'Federated learning across the compute continuum: A hierarchical approach with splitNNs and personalized layers'
     year: '2025'
   xHDCAI8AAAAJ:mlAyqtXpCwEC:
