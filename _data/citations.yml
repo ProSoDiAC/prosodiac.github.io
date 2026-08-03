@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-08-03'
 papers:
   xHDCAI8AAAAJ:-FonjvnnhkoC:
-    citations: 15
+    citations: 14
     title: Verifiable and auditable authorizations for smart industries and industrial Internet-of-Things
     year: '2021'
   xHDCAI8AAAAJ:0KyAp5RtaNEC:
@@ -18,15 +18,15 @@ papers:
     title: 1st IEEE International Workshop on Federated Networking, Clouds and IoT (FeNCI 2017)
     year: Unknown Year
   xHDCAI8AAAAJ:1yQoGdGgb4wC:
-    citations: 86
-    title: Blockchain-Based IoT-Cloud Authorization and Delegation.
+    citations: 84
+    title: Blockchain-based IoT-cloud authorization and delegation
     year: '2018'
   xHDCAI8AAAAJ:2VqYfGB8ITEC:
     citations: 1
     title: 'SecCO-OC: securing microservice-base apps'
     year: '2024'
   xHDCAI8AAAAJ:2osOgNQ5qMEC:
-    citations: 8
+    citations: 7
     title: An architecture for runtime customization of smart devices
     year: '2013'
   xHDCAI8AAAAJ:3htObqc8RwsC:
@@ -34,7 +34,7 @@ papers:
     title: 'HERALD: A Hybrid distributEd leaRning incrementAL & feDerated solution for knowledge distillation in COVID-19 classification'
     year: '2026'
   xHDCAI8AAAAJ:4MWp96NkSFoC:
-    citations: 59
+    citations: 57
     title: Experimenting with smart contracts for access control and delegation in IoT
     year: '2020'
   xHDCAI8AAAAJ:4fGpz3EwCPoC:
@@ -78,7 +78,7 @@ papers:
     title: 'SAMOGRADD: A New Dataset fo Highway Guardrail Anomaly Detection'
     year: Unknown Year
   xHDCAI8AAAAJ:9Nmd_mFXekcC:
-    citations: 17
+    citations: 15
     title: Blockchain-based publicly verifiable cloud storage
     year: '2019'
   xHDCAI8AAAAJ:9c2xU6iGI7YC:
@@ -86,7 +86,7 @@ papers:
     title: NCA 2024
     year: Unknown Year
   xHDCAI8AAAAJ:9pM33mqn1YgC:
-    citations: 62
+    citations: 63
     title: A deep learning-driven self-conscious distributed cyber-physical system for renewable energy communities
     year: '2023'
   xHDCAI8AAAAJ:9yKSN-GCB0IC:
@@ -98,7 +98,7 @@ papers:
     title: 'I/Ocloud: Adding an IoT dimension to cloud infrastructures'
     year: '2018'
   xHDCAI8AAAAJ:BUYA1_V_uYcC:
-    citations: 87
+    citations: 83
     title: A deep learning approach for pressure ulcer prevention using wearable computing
     year: '2020'
   xHDCAI8AAAAJ:BrmTIyaxlBUC:
@@ -130,11 +130,11 @@ papers:
     title: 'Dilocc: An approach for distributed incremental learning across the computing continuum'
     year: '2021'
   xHDCAI8AAAAJ:Ehil0879vHcC:
-    citations: 0
-    title: Critical Analysis of Energy Consumption in Neuro-Computational Systems
+    citations: 1
+    title: Critical analysis of energy consumption in neuro-computational systems
     year: '2026'
   xHDCAI8AAAAJ:EkHepimYqZsC:
-    citations: 12
+    citations: 11
     title: Enabling container-based fog computing with openstack
     year: '2019'
   xHDCAI8AAAAJ:F9fV5C73w3QC:
@@ -163,10 +163,10 @@ papers:
     year: '2017'
   xHDCAI8AAAAJ:HIFyuExEbWQC:
     citations: 2
-    title: 'Proxy-Based Approach for Securing Modbus Communication with Post-quantum Cryptography: A Hydrogen-Based Smart Grid Case Study'
+    title: 'Proxy-based approach for securing modbus communication with post-quantum cryptography: A hydrogen-based smart grid case study'
     year: '2025'
   xHDCAI8AAAAJ:HbR8gkJAVGIC:
-    citations: 24
+    citations: 23
     title: A resilient fire protection system for software-defined factories
     year: '2021'
   xHDCAI8AAAAJ:HeT0ZceujKMC:
@@ -181,24 +181,20 @@ papers:
     citations: 2
     title: Enhancing cnn performance through tiny image sets and incremental learning techniques
     year: '2025'
-  xHDCAI8AAAAJ:IRz6iEL74y4C:
-    citations: 0
-    title: '3D Motion Capture in Tennis: A Markerless Approach with MocapMe for Biomechanical Analysis'
-    year: '2024'
   xHDCAI8AAAAJ:IUKN3-7HHlwC:
     citations: 2
-    title: 'Operational Technologies in Industrial Control System: Cybersecurity Perspectives and Research Trends'
+    title: 'Operational technologies in industrial control system: Cybersecurity perspectives and research trends'
     year: '2024'
   xHDCAI8AAAAJ:IjCSPb-OGe4C:
-    citations: 15
+    citations: 14
     title: Towards the cloud of things sensing and actuation as a service, a key enabler for a new cloud paradigm
     year: '2013'
   xHDCAI8AAAAJ:J-pR_7NvFogC:
-    citations: 27
+    citations: 26
     title: Orchestrated multi-cloud application deployment in OpenStack with TOSCA
     year: '2017'
   xHDCAI8AAAAJ:JQOojiI6XY0C:
-    citations: 117
+    citations: 113
     title: 'An iot service ecosystem for smart cities: The# smartme project'
     year: '2019'
   xHDCAI8AAAAJ:K3LRdlH-MEoC:
@@ -213,12 +209,8 @@ papers:
     citations: 36
     title: 'Device-centric sensing: an alternative to data-centric approaches'
     year: '2015'
-  xHDCAI8AAAAJ:L7CI7m0gUJcC:
-    citations: 0
-    title: 'PROCEEDINGS-2019 IEEE 28TH INTERNATIONAL CONFERENCE ON ENABLING TECHNOLOGIES: INFRASTRUCTURE FOR COLLABORATIVE ENTERPRISES, WETICE 2019'
-    year: '2019'
   xHDCAI8AAAAJ:LI9QrySNdTsC:
-    citations: 34
+    citations: 32
     title: Optimal selection techniques for cloud service providers
     year: '2020'
   xHDCAI8AAAAJ:LO7wyVUgiFcC:
@@ -238,11 +230,11 @@ papers:
     title: General Co-Chairs
     year: Unknown Year
   xHDCAI8AAAAJ:Mojj43d5GZwC:
-    citations: 6
+    citations: 5
     title: 'Secure registration and remote attestation of IoT devices joining the cloud: The Stack4Things case of study'
     year: '2017'
   xHDCAI8AAAAJ:N5tVd3kTz84C:
-    citations: 17
+    citations: 18
     title: Hierarchical load balancing as a service for federated cloud networks
     year: '2018'
   xHDCAI8AAAAJ:NXb4pA-qfm4C:
@@ -267,11 +259,11 @@ papers:
     year: '2025'
   xHDCAI8AAAAJ:OTTXONDVkokC:
     citations: 2
-    title: On the way to distribute compute continuum urban applications by deploying clusters of drones
+    title: On the way to distribute Compute Continuum Urban applications by deploying Clusters of Drones
     year: '2024'
   xHDCAI8AAAAJ:OcBU2YAGkTUC:
-    citations: 4
-    title: 'Mutable Blockchains in IoT-Driven Sustainable Urban Planning: Challenges, and Analytical Modeling'
+    citations: 5
+    title: 'Mutable blockchains in IoT-driven sustainable urban planning: Challenges, and analytical modeling'
     year: '2025'
   xHDCAI8AAAAJ:P5F9QuxV20EC:
     citations: 37
@@ -286,7 +278,7 @@ papers:
     title: 'Sensing and Actuation as a Service, a device-centric paradigm for the IoT: analysis, design and case studies'
     year: '2015'
   xHDCAI8AAAAJ:PR6Y55bgFSsC:
-    citations: 1031
+    citations: 1007
     title: 'Blockchain and iot integration: A systematic survey'
     year: '2018'
   xHDCAI8AAAAJ:PVjk1bu6vJQC:
@@ -330,7 +322,7 @@ papers:
     title: IoT/cloud-powered crowdsourced mobility services for green smart cities
     year: '2021'
   xHDCAI8AAAAJ:UxriW0iASnsC:
-    citations: 93
+    citations: 94
     title: 'Mobile crowdsensing as a service: a platform for applications on top of sensing clouds'
     year: '2016'
   xHDCAI8AAAAJ:V3AGJWp-ZtQC:
@@ -342,11 +334,11 @@ papers:
     title: 'Virtualization and migration at the network edge: An overview'
     year: '2018'
   xHDCAI8AAAAJ:VLnqNzywnoUC:
-    citations: 67
+    citations: 66
     title: Enabling workload engineering in edge, fog, and cloud computing through OpenStack-based middleware
     year: '2019'
   xHDCAI8AAAAJ:VaXvl8Fpj5cC:
-    citations: 27
+    citations: 29
     title: Internet of things network infrastructure for the educational purpose
     year: '2020'
   xHDCAI8AAAAJ:W5xh706n7nkC:
@@ -358,11 +350,11 @@ papers:
     title: Quantitative evaluation of Cloud-based network virtualization mechanisms for IoT
     year: '2017'
   xHDCAI8AAAAJ:WJVC3Jt7v1AC:
-    citations: 6
-    title: 'Bridging IoT protocols with the web of things: A path to enhanced interoperability'
+    citations: 7
+    title: 'Bridging IoT protocols with the Web of Things: A path to enhanced interoperability'
     year: '2024'
   xHDCAI8AAAAJ:WZBGuue-350C:
-    citations: 11
+    citations: 10
     title: Enabling secure RESTful web services in IoT using OpenStack
     year: '2020'
   xHDCAI8AAAAJ:WbkHhVStYXYC:
@@ -386,7 +378,7 @@ papers:
     title: SPECIAL ISSUE ON ADVANCED COMMUNICATIONS, CONTROL, AND COMPUTING FOR INDUSTRIAL INTERNET OF THINGS
     year: Unknown Year
   xHDCAI8AAAAJ:ZuybSZzF8UAC:
-    citations: 49
+    citations: 50
     title: 'Companion fog computing: Supporting things mobility through container migration at the edge'
     year: '2018'
   xHDCAI8AAAAJ:_5tno0g5mFcC:
@@ -402,7 +394,7 @@ papers:
     title: 'Re-Forward: Memory-efficient Backpropagation for Reinforcement Learning at the Edge'
     year: '2026'
   xHDCAI8AAAAJ:_Ybze24A_UAC:
-    citations: 46
+    citations: 45
     title: Pushing intelligence to the edge with a stream processing architecture
     year: '2017'
   xHDCAI8AAAAJ:_axFR9aDTf0C:
@@ -410,7 +402,7 @@ papers:
     title: Infrastructure-centric, NetworkServer-agnostic LoRaWAN roaming
     year: '2022'
   xHDCAI8AAAAJ:_xSYboBqXhAC:
-    citations: 107
+    citations: 106
     title: 'A utility paradigm for IoT: The sensing Cloud'
     year: '2015'
   xHDCAI8AAAAJ:a3BOlSfXSfwC:
@@ -430,15 +422,15 @@ papers:
     title: "TOO (L) SMART: A template to make cities\u201D Smart\u201D"
     year: '2020'
   xHDCAI8AAAAJ:b1wdh0AR-JQC:
-    citations: 17
+    citations: 16
     title: 'Smart healthy intelligent room: Headcount through air quality monitoring'
     year: '2020'
   xHDCAI8AAAAJ:bFI3QPDXJZMC:
-    citations: 14
+    citations: 13
     title: 'Application deployment for IoT: An infrastructure approach'
     year: '2013'
   xHDCAI8AAAAJ:bKqednn6t2AC:
-    citations: 24
+    citations: 28
     title: 'An integration perspective of security, privacy, and resource efficiency in IoT-Fog networks: A comprehensive survey'
     year: '2025'
   xHDCAI8AAAAJ:bz8QjSJIRt4C:
@@ -462,7 +454,7 @@ papers:
     title: IEEE ICIOT 2018 Organizing Committee
     year: Unknown Year
   xHDCAI8AAAAJ:dTyEYWd-f8wC:
-    citations: 61
+    citations: 63
     title: Metropolitan intelligent surveillance systems for urban areas by harnessing IoT and edge computing paradigms
     year: '2018'
   xHDCAI8AAAAJ:dshw04ExmUIC:
@@ -474,23 +466,23 @@ papers:
     title: A crowd-cooperative approach for intelligent transportation systems
     year: '2016'
   xHDCAI8AAAAJ:eMMeJKvmdy0C:
-    citations: 13
+    citations: 14
     title: Crowdsourcing and stigmergic approaches for (Swarm) intelligent transportation systems
     year: '2017'
   xHDCAI8AAAAJ:e_rmSamDkqQC:
-    citations: 16
+    citations: 17
     title: Design and evaluation of a fog platform supporting device mobility through container migration
     year: '2021'
   xHDCAI8AAAAJ:edDO8Oi4QzsC:
     citations: 4
-    title: 'Managed elk deployments at the edge with openstack and iotronic: an italian smart city case study'
+    title: 'Managed ELK deployments at the Edge with OpenStack and IoTronic: an italian Smart City case study'
     year: '2022'
   xHDCAI8AAAAJ:eflP2zaiRacC:
-    citations: 28
+    citations: 26
     title: Hospitalized patient monitoring and early treatment using IoT and cloud
     year: '2017'
   xHDCAI8AAAAJ:epqYDVWIO7EC:
-    citations: 5
+    citations: 4
     title: Transparent, provenance-assured, and secure software-as-a-service
     year: '2019'
   xHDCAI8AAAAJ:f2IySw72cVMC:
@@ -498,7 +490,7 @@ papers:
     title: 'Abstraction of on-board resources in mobiles: SAaaS4Mobile, a first step towards a sensing Cloud'
     year: '2013'
   xHDCAI8AAAAJ:fEOibwPWpKIC:
-    citations: 162
+    citations: 163
     title: 'Container migration in the fog: A performance evaluation'
     year: '2019'
   xHDCAI8AAAAJ:fFSKOagxvKUC:
@@ -509,12 +501,8 @@ papers:
     citations: 26
     title: A fog-based architecture for latency-sensitive monitoring applications in industrial internet of things
     year: '2021'
-  xHDCAI8AAAAJ:g3aElNc5_aQC:
-    citations: 0
-    title: ACM INTERNATIONAL CONFERENCE PROCEEDING SERIES
-    year: '2017'
   xHDCAI8AAAAJ:geHnlv5EZngC:
-    citations: 68
+    citations: 65
     title: Stack4Things as a fog computing platform for Smart City applications
     year: '2016'
   xHDCAI8AAAAJ:gsN89kCJA0AC:
@@ -530,7 +518,7 @@ papers:
     title: IEEE ICIOT 2018 Reviewers
     year: Unknown Year
   xHDCAI8AAAAJ:i2xiXl-TujoC:
-    citations: 29
+    citations: 25
     title: Cloud-based network virtualization in iot with openstack
     year: '2021'
   xHDCAI8AAAAJ:ipzZ9siozwsC:
@@ -582,7 +570,7 @@ papers:
     title: Automatic Verification of Security Properties in Containerized IoT Applications via Bigraphical Modeling.
     year: '2026'
   xHDCAI8AAAAJ:nb7KW1ujOQ8C:
-    citations: 6
+    citations: 7
     title: 'Enabling Collaborative Development in an Open Stack Testbed: The Cloud Wave Use Case'
     year: '2015'
   xHDCAI8AAAAJ:nrtMV_XWKgEC:
@@ -602,7 +590,7 @@ papers:
     title: M2M interactions paradigm via volunteer computing and mobile crowdsensing
     year: '2014'
   xHDCAI8AAAAJ:p__nRnzSRKYC:
-    citations: 30
+    citations: 31
     title: Cloud-based enabling mechanisms for container deployment and migration at the network edge
     year: '2020'
   xHDCAI8AAAAJ:q3CdL3IzO_QC:
@@ -634,7 +622,7 @@ papers:
     title: SmartSys 2024 Organizing Committee
     year: Unknown Year
   xHDCAI8AAAAJ:sSrBHYA8nusC:
-    citations: 47
+    citations: 46
     title: 'Software defined cities: A novel paradigm for smart cities through iot clouds'
     year: '2015'
   xHDCAI8AAAAJ:t6usbXjVLHcC:
@@ -658,7 +646,7 @@ papers:
     title: A NodeRED-based dashboard to deploy pipelines on top of IoT infrastructure
     year: '2020'
   xHDCAI8AAAAJ:u-x6o8ySG0sC:
-    citations: 106
+    citations: 103
     title: 'Sensing and actuation as a service: A new development for clouds'
     year: '2012'
   xHDCAI8AAAAJ:u5HHmVD_uO8C:
@@ -670,7 +658,7 @@ papers:
     title: Enabling mechanisms for cloud-based network virtualization in iot
     year: '2015'
   xHDCAI8AAAAJ:uLbwQdceFCQC:
-    citations: 18
+    citations: 16
     title: Data agility through clustered edge computing and stream processing
     year: '2021'
   xHDCAI8AAAAJ:uWQEDVKXjbEC:
@@ -707,7 +695,7 @@ papers:
     year: Unknown Year
   xHDCAI8AAAAJ:yFnVuubrUp4C:
     citations: 1
-    title: 'IoT Orchestration in the Compute Continuum: Integrating Kubernetes with Stack4Things'
+    title: 'IoT orchestration in the compute continuum: Integrating Kubernetes with stack4things'
     year: '2025'
   xHDCAI8AAAAJ:yMeIxYmEMEAC:
     citations: 3
@@ -722,6 +710,6 @@ papers:
     title: 'The Core Approach of SAaaS in Action: The Planning Agent'
     year: '2013'
   xHDCAI8AAAAJ:z_wVstp3MssC:
-    citations: 22
+    citations: 21
     title: Extending openstack for cloud-based networking at the edge
     year: '2018'
