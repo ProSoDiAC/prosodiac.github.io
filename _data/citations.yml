@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-05'
 papers:
   xHDCAI8AAAAJ:-FonjvnnhkoC:
     citations: 14
@@ -30,7 +30,7 @@ papers:
     title: An architecture for runtime customization of smart devices
     year: '2013'
   xHDCAI8AAAAJ:3htObqc8RwsC:
-    citations: 8
+    citations: 9
     title: 'HERALD: A Hybrid distributEd leaRning incrementAL & feDerated solution for knowledge distillation in COVID-19 classification'
     year: '2026'
   xHDCAI8AAAAJ:4MWp96NkSFoC:
@@ -49,6 +49,10 @@ papers:
     citations: 2
     title: 'A Survey of WebAssembly Usage for Embedded Applications: Safety and Portability Considerations.'
     year: '2025'
+  xHDCAI8AAAAJ:5MTHONV0fEkC:
+    citations: 0
+    title: A Cloud Continuum Research Infrastructure for Distributed CPS Experimentation
+    year: '2026'
   xHDCAI8AAAAJ:5awf1xo2G04C:
     citations: 9
     title: Building a smart city service platform in Messina with the# SmartME project
@@ -86,7 +90,7 @@ papers:
     title: NCA 2024
     year: Unknown Year
   xHDCAI8AAAAJ:9pM33mqn1YgC:
-    citations: 63
+    citations: 65
     title: A deep learning-driven self-conscious distributed cyber-physical system for renewable energy communities
     year: '2023'
   xHDCAI8AAAAJ:9yKSN-GCB0IC:
@@ -97,6 +101,10 @@ papers:
     citations: 49
     title: 'I/Ocloud: Adding an IoT dimension to cloud infrastructures'
     year: '2018'
+  xHDCAI8AAAAJ:Aul-kAQHnToC:
+    citations: 0
+    title: Toward a Distributed Hypervisor for I/O Virtualization in the Cloud-to-Things Compute Continuum
+    year: '2026'
   xHDCAI8AAAAJ:BUYA1_V_uYcC:
     citations: 83
     title: A deep learning approach for pressure ulcer prevention using wearable computing
@@ -174,11 +182,11 @@ papers:
     title: 'Securing Modbus in legacy industrial control systems: A decentralized approach using proxies, Post-Quantum Cryptography and Self-Sovereign Identity'
     year: '2025'
   xHDCAI8AAAAJ:HtEfBTGE9r8C:
-    citations: 32
+    citations: 34
     title: 'Faas for iot: Evolving serverless towards deviceless in i/oclouds'
     year: '2024'
   xHDCAI8AAAAJ:HtS1dXgVpQUC:
-    citations: 2
+    citations: 3
     title: Enhancing cnn performance through tiny image sets and incremental learning techniques
     year: '2025'
   xHDCAI8AAAAJ:IUKN3-7HHlwC:
@@ -278,7 +286,7 @@ papers:
     title: 'Sensing and Actuation as a Service, a device-centric paradigm for the IoT: analysis, design and case studies'
     year: '2015'
   xHDCAI8AAAAJ:PR6Y55bgFSsC:
-    citations: 1007
+    citations: 1011
     title: 'Blockchain and iot integration: A systematic survey'
     year: '2018'
   xHDCAI8AAAAJ:PVjk1bu6vJQC:
@@ -298,7 +306,7 @@ papers:
     title: A cloud-based and dynamic dns approach to enable the web of things
     year: '2021'
   xHDCAI8AAAAJ:SP6oXDckpogC:
-    citations: 62
+    citations: 63
     title: 'Stack4things: An openstack-based framework for iot'
     year: '2015'
   xHDCAI8AAAAJ:SpbeaW3--B0C:
@@ -381,6 +389,10 @@ papers:
     citations: 50
     title: 'Companion fog computing: Supporting things mobility through container migration at the edge'
     year: '2018'
+  xHDCAI8AAAAJ:ZzlSgRqYykMC:
+    citations: 0
+    title: 'Neuro-Symbolic AI for Industrial Systems: Bridging Deep Learning and Domain Expertise'
+    year: '2026'
   xHDCAI8AAAAJ:_5tno0g5mFcC:
     citations: 0
     title: Advancements in Cultural Heritage Preservation through IoT and Drone Technologies
@@ -430,7 +442,7 @@ papers:
     title: 'Application deployment for IoT: An infrastructure approach'
     year: '2013'
   xHDCAI8AAAAJ:bKqednn6t2AC:
-    citations: 28
+    citations: 29
     title: 'An integration perspective of security, privacy, and resource efficiency in IoT-Fog networks: A comprehensive survey'
     year: '2025'
   xHDCAI8AAAAJ:bz8QjSJIRt4C:
@@ -490,13 +502,17 @@ papers:
     title: 'Abstraction of on-board resources in mobiles: SAaaS4Mobile, a first step towards a sensing Cloud'
     year: '2013'
   xHDCAI8AAAAJ:fEOibwPWpKIC:
-    citations: 163
+    citations: 164
     title: 'Container migration in the fog: A performance evaluation'
     year: '2019'
   xHDCAI8AAAAJ:fFSKOagxvKUC:
     citations: 0
     title: Adaptive Graph-based SDN Load Balancing with Virtual and Volunteer Nodes
     year: Unknown Year
+  xHDCAI8AAAAJ:fbc8zXXH2BUC:
+    citations: 0
+    title: Assessing the Feasibility of Quantum Autoencoders for Real-World Visual Anomaly Detection
+    year: '2026'
   xHDCAI8AAAAJ:foquWX3nUaYC:
     citations: 26
     title: A fog-based architecture for latency-sensitive monitoring applications in industrial internet of things
@@ -645,6 +661,10 @@ papers:
     citations: 20
     title: A NodeRED-based dashboard to deploy pipelines on top of IoT infrastructure
     year: '2020'
+  xHDCAI8AAAAJ:u-coK7KVo8oC:
+    citations: 0
+    title: 'Toward Deviceless Paradigm: An IoT-centered and Orchestrated FaaS Architecture'
+    year: '2026'
   xHDCAI8AAAAJ:u-x6o8ySG0sC:
     citations: 103
     title: 'Sensing and actuation as a service: A new development for clouds'
@@ -674,7 +694,7 @@ papers:
     title: IEEE ICIOT 2019 Reviewers
     year: Unknown Year
   xHDCAI8AAAAJ:umqufdRvDiIC:
-    citations: 5
+    citations: 6
     title: Paving the way for an Urban Intelligence OpenStack-based Architecture
     year: '2024'
   xHDCAI8AAAAJ:vRqMK49ujn8C:
@@ -694,15 +714,15 @@ papers:
     title: IEEE ICIOT 2019 Program Committee
     year: Unknown Year
   xHDCAI8AAAAJ:yFnVuubrUp4C:
-    citations: 1
+    citations: 4
     title: 'IoT orchestration in the compute continuum: Integrating Kubernetes with stack4things'
     year: '2025'
   xHDCAI8AAAAJ:yMeIxYmEMEAC:
-    citations: 3
+    citations: 4
     title: Secure and Flexible WebAssembly Deployment Infrastructure for Automotive Cyber-Physical Systems
     year: '2025'
   xHDCAI8AAAAJ:yqoGN6RLRZoC:
-    citations: 1
+    citations: 2
     title: "\xB5-VF: Enabling Virtualization of Embedded FPGAs"
     year: '2025'
   xHDCAI8AAAAJ:zYLM7Y9cAGgC:
