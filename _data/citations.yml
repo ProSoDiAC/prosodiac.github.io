@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-24'
 papers:
   xHDCAI8AAAAJ:-FonjvnnhkoC:
-    citations: 14
+    citations: 15
     title: Verifiable and auditable authorizations for smart industries and industrial Internet-of-Things
     year: '2021'
   xHDCAI8AAAAJ:0KyAp5RtaNEC:
@@ -54,11 +54,11 @@ papers:
     title: A Cloud Continuum Research Infrastructure for Distributed CPS Experimentation
     year: '2026'
   xHDCAI8AAAAJ:5awf1xo2G04C:
-    citations: 9
+    citations: 10
     title: Building a smart city service platform in Messina with the# SmartME project
     year: '2018'
   xHDCAI8AAAAJ:5qfkUJPXOUwC:
-    citations: 30
+    citations: 31
     title: An NLP-guided ontology development and refinement approach to represent and query visual information
     year: '2023'
   xHDCAI8AAAAJ:6ZxmRoH8BuwC:
@@ -90,7 +90,7 @@ papers:
     title: NCA 2024
     year: Unknown Year
   xHDCAI8AAAAJ:9pM33mqn1YgC:
-    citations: 65
+    citations: 67
     title: A deep learning-driven self-conscious distributed cyber-physical system for renewable energy communities
     year: '2023'
   xHDCAI8AAAAJ:9yKSN-GCB0IC:
@@ -106,7 +106,7 @@ papers:
     title: Toward a Distributed Hypervisor for I/O Virtualization in the Cloud-to-Things Compute Continuum
     year: '2026'
   xHDCAI8AAAAJ:BUYA1_V_uYcC:
-    citations: 83
+    citations: 84
     title: A deep learning approach for pressure ulcer prevention using wearable computing
     year: '2020'
   xHDCAI8AAAAJ:BrmTIyaxlBUC:
@@ -158,7 +158,7 @@ papers:
     title: On the way to a configurable testbed to support IoT research
     year: '2022'
   xHDCAI8AAAAJ:Fu2w8maKXqMC:
-    citations: 86
+    citations: 89
     title: Data processing in cyber-physical-social systems through edge computing
     year: '2018'
   xHDCAI8AAAAJ:GFxP56DSvIMC:
@@ -178,7 +178,7 @@ papers:
     title: A resilient fire protection system for software-defined factories
     year: '2021'
   xHDCAI8AAAAJ:HeT0ZceujKMC:
-    citations: 5
+    citations: 8
     title: 'Securing Modbus in legacy industrial control systems: A decentralized approach using proxies, Post-Quantum Cryptography and Self-Sovereign Identity'
     year: '2025'
   xHDCAI8AAAAJ:HtEfBTGE9r8C:
@@ -226,7 +226,7 @@ papers:
     title: A Service Bus Architecture for Highly Distributed and Dynamic IoT Environments
     year: '2023'
   xHDCAI8AAAAJ:LjlpjdlvIbIC:
-    citations: 11
+    citations: 12
     title: 'Integrating IoT and cloud in a smart city context: the# SmartME case study'
     year: '2018'
   xHDCAI8AAAAJ:M7yex6snE4oC:
@@ -286,7 +286,7 @@ papers:
     title: 'Sensing and Actuation as a Service, a device-centric paradigm for the IoT: analysis, design and case studies'
     year: '2015'
   xHDCAI8AAAAJ:PR6Y55bgFSsC:
-    citations: 1011
+    citations: 1018
     title: 'Blockchain and iot integration: A systematic survey'
     year: '2018'
   xHDCAI8AAAAJ:PVjk1bu6vJQC:
@@ -294,7 +294,7 @@ papers:
     title: 2022 IEEE Conference on Cloud Networking 7-10 November 2022-Paris, France
     year: Unknown Year
   xHDCAI8AAAAJ:PoWvk5oyLR8C:
-    citations: 9
+    citations: 10
     title: From vertical to horizontal buildings through iot and software defined approaches
     year: '2021'
   xHDCAI8AAAAJ:QYdC8u9Cj1oC:
@@ -302,7 +302,7 @@ papers:
     title: NCA 2024
     year: Unknown Year
   xHDCAI8AAAAJ:S16KYo8Pm5AC:
-    citations: 19
+    citations: 20
     title: A cloud-based and dynamic dns approach to enable the web of things
     year: '2021'
   xHDCAI8AAAAJ:SP6oXDckpogC:
@@ -346,7 +346,7 @@ papers:
     title: Enabling workload engineering in edge, fog, and cloud computing through OpenStack-based middleware
     year: '2019'
   xHDCAI8AAAAJ:VaXvl8Fpj5cC:
-    citations: 29
+    citations: 31
     title: Internet of things network infrastructure for the educational purpose
     year: '2020'
   xHDCAI8AAAAJ:W5xh706n7nkC:
@@ -422,7 +422,7 @@ papers:
     title: Enhancing Communication in Edge Applications with IoT-Based Overlay Peer-to-Peer Networks
     year: '2025'
   xHDCAI8AAAAJ:a9-T7VOCCH8C:
-    citations: 17
+    citations: 18
     title: 'MocapMe: DeepLabCut-enhanced neural network for enhanced markerless stability in sit-to-stand motion capture'
     year: '2024'
   xHDCAI8AAAAJ:abG-DnoFyZgC:
@@ -450,7 +450,7 @@ papers:
     title: 'Cloud-based Web of Things: A Telemedicine Use Case'
     year: '2023'
   xHDCAI8AAAAJ:cWzG1nlazyYC:
-    citations: 6
+    citations: 7
     title: Bridging ACO-based drone logistics and computing continuum for enhanced smart city applications
     year: '2025'
   xHDCAI8AAAAJ:d1gkVwhDpl0C:
@@ -502,7 +502,7 @@ papers:
     title: 'Abstraction of on-board resources in mobiles: SAaaS4Mobile, a first step towards a sensing Cloud'
     year: '2013'
   xHDCAI8AAAAJ:fEOibwPWpKIC:
-    citations: 164
+    citations: 165
     title: 'Container migration in the fog: A performance evaluation'
     year: '2019'
   xHDCAI8AAAAJ:fFSKOagxvKUC:
@@ -522,7 +522,7 @@ papers:
     title: Stack4Things as a fog computing platform for Smart City applications
     year: '2016'
   xHDCAI8AAAAJ:gsN89kCJA0AC:
-    citations: 11
+    citations: 12
     title: Video representation and suspicious event detection using semantic technologies
     year: '2021'
   xHDCAI8AAAAJ:hCrLmN-GePgC:
@@ -569,6 +569,10 @@ papers:
     citations: 4
     title: Toward a function-as-a-service framework for genomic analysis
     year: '2020'
+  xHDCAI8AAAAJ:lvd772isFD0C:
+    citations: 0
+    title: 'Beyond Component Testing: Validating Agentic AI Systems'
+    year: '2026'
   xHDCAI8AAAAJ:mNrWkgRL2YcC:
     citations: 4
     title: 'Federated learning across the compute continuum: A hierarchical approach with splitNNs and personalized layers'
@@ -581,6 +585,10 @@ papers:
     citations: 6
     title: A Stack4Things-based platform for mobile crowdsensing services
     year: '2016'
+  xHDCAI8AAAAJ:nVrZBo8bIpAC:
+    citations: 0
+    title: A Cloud Continuum Research Infrastructure for Distributed CPS Experimentation
+    year: '2026'
   xHDCAI8AAAAJ:nZcligLrVowC:
     citations: 0
     title: Automatic Verification of Security Properties in Containerized IoT Applications via Bigraphical Modeling.
@@ -606,7 +614,7 @@ papers:
     title: M2M interactions paradigm via volunteer computing and mobile crowdsensing
     year: '2014'
   xHDCAI8AAAAJ:p__nRnzSRKYC:
-    citations: 31
+    citations: 32
     title: Cloud-based enabling mechanisms for container deployment and migration at the network edge
     year: '2020'
   xHDCAI8AAAAJ:q3CdL3IzO_QC:
@@ -666,7 +674,7 @@ papers:
     title: 'Toward Deviceless Paradigm: An IoT-centered and Orchestrated FaaS Architecture'
     year: '2026'
   xHDCAI8AAAAJ:u-x6o8ySG0sC:
-    citations: 103
+    citations: 104
     title: 'Sensing and actuation as a service: A new development for clouds'
     year: '2012'
   xHDCAI8AAAAJ:u5HHmVD_uO8C:
