@@ -62,3 +62,9 @@ latest_posts:
     display: none;
   }
 </style>
+
+ProSoDiAC is a research laboratory at the Department of Engineering of the University of Messina, led by [Giovanni Merlino]({{ '/people/' | relative_url }}) as Lab Director.
+
+Our research explores software-defined architectures, decentralized protocols, and intelligent agents for autonomous cyber-physical systems. We focus on the convergence of information and operational technologies (IT/OT), connecting IoT devices and embedded systems with distributed computing infrastructures.
+
+We design and investigate protocols, middleware, and coordination mechanisms that allow these systems to interact and cooperate. Just as prosody gives rhythm and structure to speech, protocols give structure and coordination to distributed systems.

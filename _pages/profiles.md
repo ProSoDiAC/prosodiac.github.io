@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab
+title: team
+description: The people behind ProSoDiAC.
 nav: true
 nav_order: 7
 

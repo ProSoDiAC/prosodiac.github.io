@@ -1,9 +1,9 @@
-[Giovanni Merlino](https://unifind.unime.it/get/person/121567) is an associate professor in computer science engineering at the University of Messina, Italy.
+## [Giovanni Merlino](https://unifind.unime.it/get/person/121567)
 
-His research focuses on mobile and distributed systems with particular emphasis on IoT and Cyber-Physical Systems modeled as software-defined infrastructure, especially in terms of hybrid IT/OT convergence and decentralization protocols.
+_Lab Director · Associate Professor_
 
-He conceived the [I/Ocloud](https://shop.elsevier.com/books/assembling-smart-cyber-physical-systems/benomar/978-0-443-29837-0) paradigm and played a key role in the design of the [Stack4Things](https://github.com/AssemblingSmartCPS/ch13) middleware.
+Giovanni Merlino is Associate Professor of Computer Science Engineering at the Department of Engineering of the University of Messina, where he leads the ProSoDiAC Lab.
 
-He is co-founder of [SmartMe.io](https://smartme.io), an academic spin-off and startup company, and co-inventor and holder of a patent.
+His research focuses on software-defined IoT and cyber-physical systems, with particular emphasis on IT/OT convergence and decentralization protocols.
 
-He has authored over 130 peer-reviewed scientific publications.
+He conceived the [I/Ocloud](https://shop.elsevier.com/books/assembling-smart-cyber-physical-systems/benomar/978-0-443-29837-0) paradigm, contributed to the design of the [Stack4Things](https://github.com/AssemblingSmartCPS/ch13) middleware, and co-founded [SmartMe.io](https://smartme.io), an academic spin-off.
