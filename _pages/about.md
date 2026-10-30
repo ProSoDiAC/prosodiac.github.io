@@ -8,7 +8,7 @@ subtitle: >
   </span>
   <br>
   <span style="display: inline-block; margin-left: 2em; color: silver; font-weight: bold;">
-    <em>Protocolized Software-defined and Decentralized intelligent Agentic Cyber-physical systems</em>
+    <em>Protocolized, Software-defined, and Decentralized intelligent Agentic Cyber-physical systems</em>
   </span>
   research lab
   <br><br>

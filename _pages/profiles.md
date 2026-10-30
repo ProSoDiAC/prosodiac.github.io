@@ -46,6 +46,10 @@ profiles:
     more_info: >
       <p><a href="mailto:fmirto@unime.it">fmirto@unime.it</a></p>
   - align: right
+    content: about_piccadaci.md
+    more_info: >
+      <p><a href="mailto:mapiccadaci@unime.it">mapiccadaci@unime.it</a></p>
+  - align: right
     content: about_ficili.md
     more_info: >
       <p><a href="mailto:ilficili@unime.it">ilficili@unime.it</a></p>
