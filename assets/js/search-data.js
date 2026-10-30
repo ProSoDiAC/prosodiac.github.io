@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab",
+        },{id: "nav-team",
+          title: "team",
+          description: "The people behind ProSoDiAC.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
