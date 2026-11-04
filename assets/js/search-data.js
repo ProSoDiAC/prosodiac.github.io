@@ -448,13 +448,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/object-oriented-programming/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%67%6D%65%72%6C%69%6E%6F@%75%6E%69%6D%65.%69%74", "_blank");
-        },
-      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
