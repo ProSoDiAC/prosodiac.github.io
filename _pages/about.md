@@ -44,6 +44,7 @@ profile:
     <p>Messina, Italy</p>
 
 selected_papers: true
+partners: true
 social: true
 
 announcements:

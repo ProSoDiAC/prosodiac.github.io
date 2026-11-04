@@ -1,0 +1,56 @@
+<style>
+  .lab-partners {
+    clear: both;
+    margin: 3rem 0 1.5rem;
+    text-align: center;
+  }
+  .lab-partners .partner-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 140px;
+    height: 90px;
+    margin: 0.5rem;
+    padding: 10px;
+    border-radius: 0.25rem;
+  }
+  .lab-partners img {
+    width: auto;
+    height: auto;
+    max-width: 120px;
+    max-height: 60px;
+    filter: grayscale(100%);
+    opacity: 0.7;
+    transition:
+      filter 0.2s ease,
+      opacity 0.2s ease;
+  }
+  .lab-partners .partner-link:hover img,
+  .lab-partners .partner-link:focus img {
+    filter: none;
+    opacity: 1;
+  }
+  .lab-partners .partner-link:focus-visible {
+    outline: 2px solid var(--global-theme-color);
+    outline-offset: 2px;
+  }
+  html[data-theme='dark'] .lab-partners .partner-link {
+    background: #fff;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .lab-partners img {
+      transition: none;
+    }
+  }
+</style>
+
+<section class="lab-partners" aria-labelledby="partners-heading">
+  <h2 id="partners-heading">our partners</h2>
+  <div class="d-flex flex-wrap justify-content-center align-items-center">
+    {% for partner in site.data.partners %}
+      <a class="partner-link" href="{{ partner.url }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ partner.logo | relative_url }}" alt="{{ partner.name }}" loading="lazy">
+      </a>
+    {% endfor %}
+  </div>
+</section>
