@@ -6,6 +6,25 @@ description: The people behind ProSoDiAC.
 nav: true
 nav_order: 7
 
+# Page-local overrides; the director remains the first profile.
+_styles: |
+  .profile img {
+    max-width: 210px;
+  }
+  .profile img.rounded-circle {
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    object-position: center top;
+  }
+  .post > article > hr {
+    clear: both;
+  }
+  .post > article > hr:nth-of-type(2) {
+    border-top: 3px solid var(--global-divider-color);
+    margin: 2rem 0;
+  }
+
 profiles:
   - align: left
     image: merlino.jpg
@@ -18,7 +37,7 @@ profiles:
   - align: right
     image: longo.png
     content: about_longo.md
-    image_circular: false
+    image_circular: true
     more_info: >
       <p><a href="mailto:flongo@unime.it">flongo@unime.it</a></p>
       <p>Office: room 743</p>
@@ -26,6 +45,7 @@ profiles:
   - align: left
     image: tricomi.png
     content: about_tricomi.md
+    image_circular: true
     more_info: >
       <p><a href="mailto:gtricomi@unime.it">gtricomi@unime.it</a></p>
       <p>Office: room 739</p>
@@ -33,6 +53,7 @@ profiles:
   - align: right
     image: dagati.png
     content: about_dagati.md
+    image_circular: true
     more_info: >
       <p><a href="mailto:ldagati@unime.it">ldagati@unime.it</a></p>
       <p>Office: room 739</p>
