@@ -69,4 +69,6 @@ Our research explores software-defined architectures, decentralized protocols, a
 
 We design and investigate protocols, middleware, and coordination mechanisms that allow these systems to interact and cooperate.
 
+ProSoDiAC is part of the [Protocol Institute Network (PIN)](https://protocol-institute.org/network/), connecting our work on cyber-physical systems and agentic AI with a broader community exploring protocolization.
+
 Just as prosody gives rhythm and structure to speech, protocols give structure and coordination to distributed systems.
